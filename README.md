@@ -1,1 +1,2 @@
-# AIoT-Project
+# AIoT Project
+# Automatic Tomato Plant Care System
