@@ -1,0 +1,5 @@
+0 Bệnh sương mai
+1 Bệnh thối đít cà chua
+2 Bệnh nứt quả cà chua
+3 Cà chua khỏe
+4 Nothing
