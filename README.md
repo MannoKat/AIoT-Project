@@ -34,21 +34,26 @@ Welcome to the Automatic Tomato Plant Care System developed by Cốc Cốc. This
 
 ## Installation
 
-1. **Hardware Setup:**
+1. Clone the project repository:
+    ```
+    git clone https://github.com/MannoKat/AIoT-Project.git
+    ```
+
+2. **Hardware Setup:**
    - Connect the sensors (soil moisture sensor, temperature/humidity sensor, light sensor) to the Arduino board.
    - Connect the water pump to the Arduino board (via a relay module if required).
 
-2. **Software Setup:**
+3. **Software Setup:**
    - Upload the Arduino sketch (provided in `arduino_code/`) to your Arduino board.
    - Install the required Python packages by running:
      ```
      pip install -r requirements.txt
      ```
 
-3. **Configuration:**
+4. **Configuration:**
    - Modify the Arduino sketch and Python scripts to adjust sensor pins, thresholds, and any other parameters according to your setup and requirements.
 
-4. **Usage:**
+5. **Usage:**
    - Run the Python script (`main.py`) to start the monitoring and control system.
    - Follow the prompts or GUI instructions to interact with the system.
 
