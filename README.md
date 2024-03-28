@@ -16,17 +16,18 @@ Welcome to the Automatic Tomato Plant Care System developed by Cốc Cốc. This
    7. Đỗ Nam Hải
 ## Features
 
-- Automated watering system
-- Soil moisture monitoring
-- Temperature and humidity monitoring
-- Light intensity monitoring
-- Automatic notifications and alerts
+- Automated watering based on soil moisture levels.
+- Monitoring and maintaining optimal temperature and light conditions.
+- Real-time data monitoring and analysis.
+- Automatic notifications and alerts.
+- User-friendly interface for configuration and monitoring.
 
 ## Requirements
 
 - Arduino microcontroller board
 - Sensors (soil moisture sensor, temperature/humidity sensor, light sensor)
 - Water pump
+- Camera
 - Relay module (if required)
 - Python environment for data analysis and visualization
 - Internet connectivity for notifications (optional)
@@ -53,7 +54,7 @@ Welcome to the Automatic Tomato Plant Care System developed by Cốc Cốc. This
 
 ## Troubleshooting
 
-- If you encounter any issues during setup or operation, please refer to the troubleshooting section in the project report (`project_report.pdf`).
+- If you encounter any issues during setup or operation, please refer to the troubleshooting section in the project report ([Multidisciplinary_Report_CocCoc.pdf](https://github.com/MannoKat/AIoT-Project/blob/main/Report/Multidisciplinary_Report_CocCoc.pdf)).
 
 ## Contributing
 
@@ -61,13 +62,5 @@ We welcome contributions from the community. If you have any suggestions, improv
 
 ## Credits
 
-This project was developed by [Your Team Name] at the Vietnamese-German University.
-
-## License
-
-This project is licensed under the [License Name]. See the LICENSE file for details.
-
-## Contact
-
-For any inquiries or support, please contact [Your Email Address].
+This project was developed by Cốc Cốc at the Vietnamese-German University.
 
